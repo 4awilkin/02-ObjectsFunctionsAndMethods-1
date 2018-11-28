@@ -27,6 +27,7 @@ def main():
     """
 
 
+
 ###############################################################################
 # TODO: 3a.  Define a function immediately below this _TODO_.
 #   It takes two arguments that denote, for a right triangle,
